@@ -1,4 +1,5 @@
-ublic static void main(String[] args) {
+public class QuanLyPhongHocProgram {
+public static void main(String[] args) {
        QuanLyPhongHoc quanLyPhongHoc = new QuanLyPhongHoc();
 
        int luaChon = 0;
